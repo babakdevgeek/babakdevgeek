@@ -2,6 +2,8 @@
 <img src="https://readme-typing-svg.demolab.com/?multiline=true&size=28&color=E3F0FFDE&repeat=false&lines=Hello+Warroirs,;welcome+to+my+github+page&height=80&center=true&center=true&weight=900&duration=3500&width=500"/>
 </div>
 
+<!-- Adding some space -->
+<br/><br/>
 
 ```
 python 
