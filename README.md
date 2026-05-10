@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com/?multiline=true&size=28&color=E3F0FFDE&repeat=false&lines=Hello+Warroirs,;welcome+to+my+github+page&height=140&center=true&center=true&weight=900&duration=3500"/>
+<img src="https://readme-typing-svg.demolab.com/?multiline=true&size=28&color=E3F0FFDE&repeat=false&lines=Hello+Warroirs,;welcome+to;my+github+page&height=160&center=true&center=true&weight=900&duration=3500"/>
 </div>
 
 
