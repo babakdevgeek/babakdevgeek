@@ -8,7 +8,7 @@
 ```
 python 
 
-def progress(focuos, mind_quality):
+def progress(focus, mind_quality):
     
     return focus ** mind_quality
 ```
