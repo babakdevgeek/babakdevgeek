@@ -14,14 +14,14 @@ def progress(focuos, mind_quality):
 ```
 <div align="center">
 <h3> My tech stack is: </h3>
- <img src="https://img.shields.io/badge/-black?logo=css" width="31.25" height="25px"/>
- <img width="31.25" height="25px" src="https://img.shields.io/badge/-black?logo=github">
- <img  width="31.25" height="25px" src="https://img.shields.io/badge/-black?logo=markdown" />
- <img  width="31.25" height="25px" src="https://img.shields.io/badge/-black?logo=html5" />
- <img  width="31.25" height="25px" src="https://img.shields.io/badge/-black?logo=python" />
- <img  width="31.25" height="25px" src="https://img.shields.io/badge/-black?logo=docker" />
+ <img src="https://img.shields.io/badge/css-5866FF?logo=css&logoColor=white&style=for-the-badge" />
+ <img  src="https://img.shields.io/badge/github-2A2829?logo=github&logoColor=white&style=for-the-badge">
+ <img src="https://img.shields.io/badge/markdown-DDC1FF?logo=markdown&logoColor=white&style=for-the-badge" />
+ <img   src="https://img.shields.io/badge/html-orange?logo=html5&logoColor=white&style=for-the-badge" />
+ <img   src="https://img.shields.io/badge/python-8A2EC3?logo=python&logoColor=white&style=for-the-badge" />
+ <img   src="https://img.shields.io/badge/docker-blue?logo=docker&logoColor=white&style=for-the-badge" />
 <div>
- <img  width="31.25" height="25px" src="https://img.shields.io/badge/-black?logo=node.js" />
- <img  width="31.25" height="25px" src="https://img.shields.io/badge/-black?logo=next.js" />
- <img  width="31.25" height="25px" src="https://img.shields.io/badge/-black?logo=wordpress" /></div>
+ <img   src="https://img.shields.io/badge/nodejs-%B428F2?logo=node.js&style=for-the-badge&logoColor=white" />
+ <img   src="https://img.shields.io/badge/nextjs-black?logo=next.js&style=for-the-badge&logoColor=white" />
+ <img   src="https://img.shields.io/badge/wordpress-5963C8?logo=wordpress&logoColor=white&style=for-the-badge" />
 </div>
